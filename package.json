@@ -1,0 +1,11 @@
+{
+  "name": "aria2-client",
+  "version": "0.0.1",
+  "description": "Aria2 rpc client",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonrpc-serializer": "^0.1.8"
+  }
+}
