@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "author": "",
   "license": "MIT",
+  "repository": "https://github.com/SlNPacifist/aria2-rpc-client.git",
   "dependencies": {
     "inherits": "^2.0.1",
     "js-base64": "^2.1.9",
