@@ -6,7 +6,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "inherits": "^2.0.1",
     "js-base64": "^2.1.9",
-    "jsonrpc-serializer": "^0.1.8"
+    "jsonrpc-serializer": "https://github.com/SlNPacifist/jsonrpc-serializer#ft/no-util-require"
   }
 }
