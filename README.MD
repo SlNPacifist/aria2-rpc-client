@@ -8,7 +8,7 @@ creation and error processing for user.
 
 ### As a basis for your Aria2 library
 
-This library do not perform transport creation and do not process transport errors. Most likely, you want to your own
+This library do not perform transport creation and do not process transport errors. Most likely, you want your own
 library to do something like this:
 
  * create transport based on settings specified by user (and user does not want to know about kinds of transport - just
