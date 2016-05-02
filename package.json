@@ -1,6 +1,6 @@
 {
   "name": "aria2-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Aria2 rpc client",
   "main": "lib/index.js",
   "author": "",
